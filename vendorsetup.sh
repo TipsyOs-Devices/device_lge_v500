@@ -1,1 +1,1 @@
-add_lunch_combo tesla_v500-userdebug
+add_lunch_combo tipsy_v500-userdebug
